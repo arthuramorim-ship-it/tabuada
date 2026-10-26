@@ -1,0 +1,53 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(123, 242, 255);
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.tabuada{
+    margin: 20px auto;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input,button{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button{
+    background-color: blue;
+    color: azure;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover{
+    color: aqua;
+    background-color: rgb(25, 25 , 118);
+}
+
+#resultado{
+    margin: 20px auto;
+    width: 200px;
+    font-size: 18px;
+}
+
+.linha{
+    border: 1px solid rgb(17, 192, 240);
+    padding: 8px;
+    margin: 2px 0;
+    background-color: cornsilk;
+    border-radius: 50px;
+}
